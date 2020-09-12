@@ -1,0 +1,27 @@
+ table {
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 50%;
+  }
+  
+   td, th {
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 3px;
+  } */
+
+  /* body {
+  background-color : rgb(41 149 238 / 16%);
+  } */
+
+td{
+    margin: 5%;
+}
+.editTable {
+    margin-left: 35%;
+    margin-top: 5%;
+}
+.editTableBtn {
+    margin-top: 4%;
+}
+   
